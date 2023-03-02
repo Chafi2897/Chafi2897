@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hola, me llamo Julián Sebastian Schaaf,
+## naci el 2 de Agosto de 1997, en Basavilbaso, Entre Ríos, Argentina.
 
-<!--
-**Chafi2897/Chafi2897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 -*Mis Estudios*_
+- Primaria.
+- Secundaria.
+- Curso de Auxiliar en Farmacia.
+- Actualmente realizando un Bootcamp en Undefined Academy.
 
-Here are some ideas to get you started:
+🛠 _*Mis trabajos*_
+- En negocio familiar, atentdiendo al cliente y controlado stock de mercadería.
+- En farmacia, controlando stock y precios, preparando pagos a proovedores, entre otras cosas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🕹 _*Comandos Aprendidos*_
+| clear | Limpiar Terminal |
+
+| cal | Calendario |
+
+| pwd | Muestra en que carpeta estas |
+
+| ls | Te muestra las carpetas y archivos que hay en la ubicación |
+
+| rm | Se usa para eliminar, carpetas archivos, etc |
+
+
+### ⚡ _*Mis Alias*_
+| actualizar = sudo apt update && sudo apt upgade | Busca las actualizaciones y las aplica |
+
+| cl = clear | Limpia la terminal |
