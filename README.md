@@ -12,18 +12,15 @@
 - En farmacia, controlando stock y precios, preparando pagos a proovedores, entre otras cosas.
 
 ### 🕹 _*Comandos Aprendidos*_
-| clear | Limpiar Terminal |
 
-| cal | Calendario |
-
-| pwd | Muestra en que carpeta estas |
-
-| ls | Te muestra las carpetas y archivos que hay en la ubicación |
-
-| rm | Se usa para eliminar, carpetas archivos, etc |
-
+| clear | Limpiar Terminal                                           |
+|-------|------------------------------------------------------------|
+| cal   | Calendario                                                 |
+| pwd   | Muestra en que carpeta estas                               |
+| ls    | Te muestra las carpetas y archivos que hay en la ubicación |
+| rm    | Se usa para eliminar, carpetas archivos, etc               |
 
 ### ⚡ _*Mis Alias*_
 | actualizar = sudo apt update && sudo apt upgade | Busca las actualizaciones y las aplica |
-
-| cl = clear | Limpia la terminal |
+|-------------------------------------------------|----------------------------------------|
+| cl = clear                                      | Limpia la terminal                     |
