@@ -1,5 +1,5 @@
 # Hola, me llamo Julián Sebastian Schaaf,
-## naci el 2 de Agosto de 1997, en Basavilbaso, Entre Ríos, Argentina.
+## naci el 2 de Agosto de 1997, y soy de Villa San Marcial, Entre Ríos, Argentina.
 
 🎓 -*Mis Estudios*_
 - Primaria.
